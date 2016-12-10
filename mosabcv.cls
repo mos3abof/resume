@@ -22,8 +22,8 @@
 \ProvidesClass{mcdowellcv}[2015/12/15 v1.1.0 McDowell CV class]
 
 % Set up the fonts according to options
-\def\mainfontsize{11pt}
-\def\mainfontface{Times New Roman}
+\def\mainfontsize{10pt}
+\def\mainfontface{Caladea}
 
 \DeclareOption{calibri}{%
   \def\mainfontface{Calibri}
